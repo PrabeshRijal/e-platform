@@ -1,0 +1,13 @@
+@mixin flexCentered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin countColumn($count) {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: $count;
+    -webkit-box-orient: vertical;
+}

@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6038e23.css",
+    "main.js": "/static/js/main.2e0c5757.js",
+    "static/media/sliderImg4.png": "/static/media/sliderImg4.f6fd55ec3b45b1ae252a.png",
+    "static/media/sliderImg2.png": "/static/media/sliderImg2.3560937cb567eb83405c.png",
+    "static/media/sliderImg3.jpg": "/static/media/sliderImg3.ffebfdb9c70208376794.jpg",
+    "static/media/404.PNG": "/static/media/404.4e2cd4dc0ad94c6e04bd.PNG",
+    "static/media/feature1.png": "/static/media/feature1.4e6c5b5840dd5abe23c0.png",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/sliderImg1.jpg": "/static/media/sliderImg1.eaf8672696c7ae209494.jpg",
+    "static/media/feature2.png": "/static/media/feature2.cfbe98c607a04106a686.png",
+    "static/media/feature3.png": "/static/media/feature3.b97486afc0b55661ec2e.png",
+    "static/media/logo.png": "/static/media/logo.fa1aa0fca877054c0825.png",
+    "static/media/product1.jpg": "/static/media/product1.72bcd48c71187441b20a.jpg",
+    "static/media/product11.jpg": "/static/media/product11.2d54eefba484c2edf90e.jpg",
+    "static/media/product3.jpg": "/static/media/product3.c9b6fd07e9bb7d3634dd.jpg",
+    "static/media/product2.jpg": "/static/media/product2.5dc8d39a3a718a0defeb.jpg",
+    "static/media/product6.jpg": "/static/media/product6.92b0bddbaaf96af83710.jpg",
+    "static/media/product12.jpg": "/static/media/product12.781c5b29e60939ec13fc.jpg",
+    "static/media/product5.jpg": "/static/media/product5.3a28a00c93465fde5a53.jpg",
+    "static/media/product4.jpg": "/static/media/product4.1e4af9738d4a0d6ee9a3.jpg",
+    "static/media/product9.jpg": "/static/media/product9.3de7c1a9890cd19af695.jpg",
+    "static/media/product10.jpg": "/static/media/product10.38df30f060d381ac8758.jpg",
+    "static/media/product7.jpg": "/static/media/product7.1d59a696cf7d9c4158ce.jpg",
+    "index.html": "/index.html",
+    "main.c6038e23.css.map": "/static/css/main.c6038e23.css.map",
+    "main.2e0c5757.js.map": "/static/js/main.2e0c5757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6038e23.css",
+    "static/js/main.2e0c5757.js"
+  ]
+}
